@@ -72,3 +72,11 @@ cd mini-ci-cd-job-monitor
 
 ```
 
+### Working Images
+
+![s1](https://github.com/blackhat955/Minicicdmonitor/blob/main/Screenshot%202025-04-16%20at%2017.27.36.png)
+![s2](https://github.com/blackhat955/Minicicdmonitor/blob/main/Screenshot%202025-04-16%20at%2017.29.13.png)
+![s3](https://github.com/blackhat955/Minicicdmonitor/blob/main/Screenshot%202025-04-16%20at%2017.37.52.png)
+![s4](https://github.com/blackhat955/Minicicdmonitor/blob/main/Screenshot%202025-04-16%20at%2017.29.58.png)
+
+
